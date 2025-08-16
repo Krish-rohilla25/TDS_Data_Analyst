@@ -5,7 +5,7 @@
 ---
 
 ## 📌 What Is This?
-Meet **Data Analyst Agent 2.0** — an AI-driven assistant that eliminates tedious data crunching.  
+Meet **Data Analyst Agent ** — an AI-driven assistant that eliminates tedious data crunching.  
 Upload your dataset + queries, and instantly get:  
 ✅ Visual reports  
 ✅ AI-generated insights  
@@ -35,7 +35,7 @@ Perfect for:
 
 ## 🚀 Getting Started  
 
-### 1️⃣ Clone the Repo  - git clone https://github.com/your-username/data-analyst-agent.git
+### 1️⃣ Clone the Repo  - git clone https://github.com/your-username/TDS_Data_Analyst
 cd data-analyst-agent
 
 ### 2️⃣ Install Requirements  - pip install -r requirements.txt
